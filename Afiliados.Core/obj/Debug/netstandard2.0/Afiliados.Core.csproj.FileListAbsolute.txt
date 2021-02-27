@@ -1,0 +1,9 @@
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\bin\Debug\netstandard2.0\Afiliados.Core.deps.json
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\bin\Debug\netstandard2.0\Afiliados.Core.dll
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\bin\Debug\netstandard2.0\Afiliados.Core.pdb
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\obj\Debug\netstandard2.0\Afiliados.Core.csprojAssemblyReference.cache
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\obj\Debug\netstandard2.0\Afiliados.Core.AssemblyInfoInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\obj\Debug\netstandard2.0\Afiliados.Core.AssemblyInfo.cs
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\obj\Debug\netstandard2.0\Afiliados.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\obj\Debug\netstandard2.0\Afiliados.Core.dll
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Core\obj\Debug\netstandard2.0\Afiliados.Core.pdb

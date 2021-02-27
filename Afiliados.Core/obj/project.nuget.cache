@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGJK1VQvkIVtsslMO5w45jGbdi9aqLp4CP6tWYCpm89R4qp8XqQLVrlvsIuSenX/BuC0uGrqHG71YMuGgFVqWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anyelo Vinzen\\source\\repos\\Afiliacion.web.api\\Afiliados.Core\\Afiliados.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anyelo Vinzen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anyelo Vinzen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

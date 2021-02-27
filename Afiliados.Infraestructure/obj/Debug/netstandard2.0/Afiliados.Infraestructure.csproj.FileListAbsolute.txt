@@ -1,0 +1,12 @@
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\bin\Debug\netstandard2.0\Afiliados.Core.dll
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\obj\Debug\netstandard2.0\Afiliados.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\obj\Debug\netstandard2.0\Afiliados.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\obj\Debug\netstandard2.0\Afiliados.Infraestructure.AssemblyInfo.cs
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\bin\Debug\netstandard2.0\Afiliados.Infraestructure.deps.json
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\bin\Debug\netstandard2.0\Afiliados.Infraestructure.dll
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\bin\Debug\netstandard2.0\Afiliados.Infraestructure.pdb
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\bin\Debug\netstandard2.0\Afiliados.Core.pdb
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\obj\Debug\netstandard2.0\Afiliados.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\obj\Debug\netstandard2.0\Afiliados.Infraestructure.csproj.CopyComplete
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\obj\Debug\netstandard2.0\Afiliados.Infraestructure.dll
+C:\Users\Anyelo Vinzen\source\repos\Afiliacion.web.api\Afiliados.Infraestructure\obj\Debug\netstandard2.0\Afiliados.Infraestructure.pdb
