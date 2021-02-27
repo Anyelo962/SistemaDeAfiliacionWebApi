@@ -32,13 +32,12 @@ namespace afiliados.Web.Api.Controllers
         {
             var uniqueURL = Convert.ToBase64String(Guid.NewGuid().
                             ToByteArray()).Substring(0, 8).Replace("/", "2");
-            var url = "https://bookiesbeef.es/buy/";
             var addLinks = new Link
             {
                 IdAfiliado = links.IdAfiliado,
                 IdProducto = links.IdProducto,
                 Estado = links.Estado,
-                Texto = links.Texto + url + links.IdAfiliado + links.IdProducto+ uniqueURL
+                Texto = links.Texto+ uniqueURL
             };
 
             await link.AddLink(addLinks);
